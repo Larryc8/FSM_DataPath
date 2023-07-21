@@ -1,18 +1,21 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_UNSIGNED.ALL;
 -- FPGA projects using Verilog code VHDL code
 -- fpga4student.com: FPGA projects, Verilog projects, VHDL projects
 -- VHDL project: VHDL code for counters with testbench  
 -- VHDL project: VHDL code for up counter   
-entity counter is
+entity counter_testing is
     Port ( clk: in std_logic; -- clock input
+           reset: in std_logic; -- reset input 
 			  count_en : in std_logic;
            count_up: out std_logic_vector(1 downto 0);
 			  count_down: out std_logic_vector(1 downto 0);
 			  count_is_ended : out std_logic
      );
-end counter;
+end counter_testing;
 
-architecture arch of counter is
+architecture arch of counter_testing is
 	signal count: std_logic_vector(1 downto 0);
 	begin
 	-- up counter
@@ -30,3 +33,4 @@ architecture arch of counter is
 		
 		count_is_ended <= count(0) and  count(1);
 end arch;
+
