@@ -8,6 +8,14 @@
   "ModuleName" : "ALU"
  },
  {
+  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd",
+  "InstLine" : 4,
+  "InstName" : "FSM_Aritmetica",
+  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "FSM_Aritmetica"
+ },
+ {
   "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd",
   "InstLine" : 4,
   "InstName" : "displays",
@@ -46,13 +54,5 @@
   "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd",
   "ModuleLine" : 4,
   "ModuleName" : "tristate"
- },
- {
-  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd",
-  "InstLine" : 4,
-  "InstName" : "FSM_Aritmetica",
-  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd",
-  "ModuleLine" : 4,
-  "ModuleName" : "FSM_Aritmetica"
  }
 ]

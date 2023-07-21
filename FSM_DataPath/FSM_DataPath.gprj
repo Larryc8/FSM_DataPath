@@ -9,8 +9,10 @@
         <File path="src/FSM_Aritmetica.vhd" type="file.vhdl" enable="1"/>
         <File path="src/displays.vhd" type="file.vhdl" enable="1"/>
         <File path="src/ram.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/register.vhd" type="file.vhdl" enable="1"/>
         <File path="src/rom1.vhd" type="file.vhdl" enable="1"/>
         <File path="src/rom2.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/rom_bcd.vhd" type="file.vhdl" enable="1"/>
         <File path="src/tristate.vhd" type="file.vhdl" enable="1"/>
     </FileList>
 </Project>

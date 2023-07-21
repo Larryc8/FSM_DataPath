@@ -7,6 +7,11 @@
   },
   {
    "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
    "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd",
    "Type" : "vhdl"
   },
@@ -32,7 +37,12 @@
   },
   {
    "Library" : "work",
-   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/register.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom_bcd.vhd",
    "Type" : "vhdl"
   }
  ],
