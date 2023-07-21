@@ -1,0 +1,26 @@
+[
+ {
+  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd",
+  "InstLine" : 4,
+  "InstName" : "rom1",
+  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "rom1"
+ },
+ {
+  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom2.vhd",
+  "InstLine" : 4,
+  "InstName" : "rom2",
+  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom2.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "rom2"
+ },
+ {
+  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd",
+  "InstLine" : 4,
+  "InstName" : "tristate",
+  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "tristate"
+ }
+]

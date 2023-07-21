@@ -1,0 +1,27 @@
+{
+ "Files" : [
+  {
+   "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom2.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
