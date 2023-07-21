@@ -22,6 +22,11 @@
   },
   {
    "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/register.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
    "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd",
    "Type" : "vhdl"
   },
@@ -32,17 +37,17 @@
   },
   {
    "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom_bcd.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
    "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/register.vhd",
-   "Type" : "vhdl"
-  },
-  {
-   "Library" : "work",
-   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom_bcd.vhd",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/reg.vhd",
    "Type" : "vhdl"
   }
  ],
