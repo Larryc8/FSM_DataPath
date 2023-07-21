@@ -2,6 +2,11 @@
  "Files" : [
   {
    "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ALU.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
    "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd",
    "Type" : "vhdl"
   },
@@ -17,7 +22,7 @@
   },
   {
    "Library" : "work",
-   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ALU.vhd",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd",
    "Type" : "vhdl"
   }
  ],

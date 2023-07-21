@@ -1,0 +1,38 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ALU.vhd'
+Analyzing entity 'alu'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ALU.vhd":5)
+Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ALU.vhd":13)
+Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd'
+Analyzing entity 'rom1'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd":4)
+Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd":14)
+Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom2.vhd'
+Analyzing entity 'rom2'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom2.vhd":4)
+Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom2.vhd":14)
+Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd'
+Analyzing entity 'tristate'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd":4)
+Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd":12)
+Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd'
+Analyzing entity 'displays'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd":4)
+Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd":11)
+Processing 'displays(rtl)'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd":4)
+NOTE  (EX0101) : Current top module is "displays"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/impl/gwsynthesis/FSM_DataPath.vg" completed
+[100%] Generate report file "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/impl/gwsynthesis/FSM_DataPath_syn.rpt.html" completed
+GowinSynthesis finish
