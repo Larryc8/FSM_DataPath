@@ -4,13 +4,17 @@ use ieee.std_logic_arith.all;
 
 entity ALU is
   port (
-    dataa : in unsigned(7 downto 0);
-    datab : in unsigned(7 downto 0);
-    result : out unsigned(7 downto 0)
+    dataa : in std_logic_vector(7 downto 0);
+    datab : in std_logic_vector(7 downto 0);
+    result : out std_logic_vector(7 downto 0)
        );
 end entity ALU;
 
 architecture rtl of ALU is
+  signal num1 : unsigned(7 downto 0);
+  signal num2 : unsigned(7 downto 0);
 begin
-  result <= dataa + datab;
+  num1 <= unsigned(dataa);
+  num2 <= unsigned(datab);
+  result <= num1 + num2;
 end architecture rtl;
