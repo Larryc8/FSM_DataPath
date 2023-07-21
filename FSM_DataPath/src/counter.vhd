@@ -5,17 +5,16 @@ use IEEE.STD_LOGIC_UNSIGNED.ALL;
 -- fpga4student.com: FPGA projects, Verilog projects, VHDL projects
 -- VHDL project: VHDL code for counters with testbench  
 -- VHDL project: VHDL code for up counter   
-entity counter_testing is
-    Port ( clk: in std_logic; -- clock input
-           reset: in std_logic; -- reset input 
+entity counter is
+    Port ( clk: in std_logic; -- clock input 
 			  count_en : in std_logic;
            count_up: out std_logic_vector(1 downto 0);
 			  count_down: out std_logic_vector(1 downto 0);
 			  count_is_ended : out std_logic
      );
-end counter_testing;
+end counter;
 
-architecture arch of counter_testing is
+architecture arch of counter is
 	signal count: std_logic_vector(1 downto 0);
 	begin
 	-- up counter
