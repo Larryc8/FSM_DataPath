@@ -8,6 +8,14 @@
   "ModuleName" : "ALU"
  },
  {
+  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd",
+  "InstLine" : 4,
+  "InstName" : "displays",
+  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "displays"
+ },
+ {
   "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd",
   "InstLine" : 4,
   "InstName" : "rom1",
@@ -32,11 +40,11 @@
   "ModuleName" : "tristate"
  },
  {
-  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd",
-  "InstLine" : 4,
-  "InstName" : "displays",
-  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd",
-  "ModuleLine" : 4,
-  "ModuleName" : "displays"
+  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd",
+  "InstLine" : 5,
+  "InstName" : "ram",
+  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "ram"
  }
 ]
