@@ -11,18 +11,17 @@ entity reg is
 end entity reg;
 
 architecture arch of reg is
-	 --signal q : std_logic_vector(7 downto 0);
-	 begin
-	process(clock, r, w) is
-    variable data : std_logic_vector(7 downto 0);
+  signal q : std_logic_vector(7 downto 0);
+	begin
+	process(clock) is
 		begin
 		 if rising_edge(clock) then
-				if(w='1') then
-          data := datain;
-				end if;
-				if(r='1') then
-					dataout <= data; else dataout <= "ZZZZZZZZ";
-				end if;
+			if(w='1') then
+				q <= datain;
+			end if;
+		 end if;
+		 if(r='1') then
+			dataout <= q; else dataout <= "ZZZZZZZZ";
 		 end if;
 	end process;
 end architecture arch;
