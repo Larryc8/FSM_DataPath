@@ -2,7 +2,7 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity rom2 is
-  generic (D_Width : integer := 5;
+  generic (D_Width : integer := 8;
            A_Width : integer := 2);
   port (
     clk : in std_logic;
@@ -23,10 +23,10 @@ begin
 
   lookup_proc : process (clk) begin
     case(addr_sel) is
-      when "00" => rom_d <= "10001";
-      when "01" => rom_d <= "10010";
-      when "10" => rom_d <= "10011";
-      when "11" => rom_d <= "10100";
+      when "00" => rom_d <= "00010001";
+      when "01" => rom_d <= "00010010";
+      when "10" => rom_d <= "00010011";
+      when "11" => rom_d <= "00010100";
     end case;
   end process lookup_proc;
 

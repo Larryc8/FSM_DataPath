@@ -7,6 +7,7 @@
     <FileList>
         <File path="src/ALU.vhd" type="file.vhdl" enable="1"/>
         <File path="src/FSM_Aritmetica.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/datapath.vhd" type="file.vhdl" enable="1"/>
         <File path="src/displays.vhd" type="file.vhdl" enable="1"/>
         <File path="src/ram.vhd" type="file.vhdl" enable="1"/>
         <File path="src/reg.vhd" type="file.vhdl" enable="1"/>
