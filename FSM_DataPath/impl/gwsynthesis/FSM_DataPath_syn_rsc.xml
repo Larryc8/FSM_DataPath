@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="ram" Ssram="2"/>
+<Module name="FSM_Aritmetica" Register="17" Lut="20"/>

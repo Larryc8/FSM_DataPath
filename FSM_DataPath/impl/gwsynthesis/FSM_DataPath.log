@@ -6,6 +6,9 @@ Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/s
 Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd'
 Analyzing entity 'displays'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd":4)
 Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd":11)
+Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd'
+Analyzing entity 'ram'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd":5)
+Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd":15)
 Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd'
 Analyzing entity 'rom1'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd":4)
 Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd":14)
@@ -15,12 +18,11 @@ Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/s
 Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd'
 Analyzing entity 'tristate'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd":4)
 Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd":12)
-Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd'
-Analyzing entity 'ram'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd":5)
-Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd":15)
-Processing 'ram(rtl)'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd":5)
-Extracting RAM for identifier 'RAM'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd":19)
-NOTE  (EX0101) : Current top module is "ram"
+Analyzing VHDL file '/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd'
+Analyzing entity 'fsm_aritmetica'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd":4)
+Analyzing architecture 'rtl'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd":17)
+Processing 'FSM_Aritmetica(rtl)'("/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd":4)
+NOTE  (EX0101) : Current top module is "FSM_Aritmetica"
 [5%] Running netlist conversion ...
 Running device independent optimization ...
 [10%] Optimizing Phase 0 completed

@@ -16,6 +16,14 @@
   "ModuleName" : "displays"
  },
  {
+  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd",
+  "InstLine" : 5,
+  "InstName" : "ram",
+  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "ram"
+ },
+ {
   "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd",
   "InstLine" : 4,
   "InstName" : "rom1",
@@ -40,11 +48,11 @@
   "ModuleName" : "tristate"
  },
  {
-  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd",
-  "InstLine" : 5,
-  "InstName" : "ram",
-  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd",
-  "ModuleLine" : 5,
-  "ModuleName" : "ram"
+  "InstFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd",
+  "InstLine" : 4,
+  "InstName" : "FSM_Aritmetica",
+  "ModuleFile" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "FSM_Aritmetica"
  }
 ]

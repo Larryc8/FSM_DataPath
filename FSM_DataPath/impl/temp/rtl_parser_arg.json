@@ -12,6 +12,11 @@
   },
   {
    "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
    "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd",
    "Type" : "vhdl"
   },
@@ -27,7 +32,7 @@
   },
   {
    "Library" : "work",
-   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd",
    "Type" : "vhdl"
   }
  ],

@@ -6,10 +6,11 @@
     <FileList>
         <File path="/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ALU.vhd" type="vhdl"/>
         <File path="/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/displays.vhd" type="vhdl"/>
+        <File path="/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd" type="vhdl"/>
         <File path="/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom1.vhd" type="vhdl"/>
         <File path="/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/rom2.vhd" type="vhdl"/>
         <File path="/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd" type="vhdl"/>
-        <File path="/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ram.vhd" type="vhdl"/>
+        <File path="/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/FSM_Aritmetica.vhd" type="vhdl"/>
     </FileList>
     <OptionList>
         <Option type="disable_insert_pad" value="0"/>
