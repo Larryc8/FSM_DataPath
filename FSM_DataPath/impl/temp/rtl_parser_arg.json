@@ -14,6 +14,11 @@
    "Library" : "work",
    "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/tristate.vhd",
    "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "/home/lazk3r/Documents/FSM_DataPath/FSM_DataPath/src/ALU.vhd",
+   "Type" : "vhdl"
   }
  ],
  "IncludePath" : [
